@@ -1,6 +1,6 @@
 from Tkinter import *
 
-# dictionary to hold words and colors
+# dictionary to hold all words
 highlightWords = ["LOW", "LOA", "bleed", "Bleed", "tube", "Tube", "Solid", "solid",
                   "Liquid", "liquid", "Porrigde", "porridge", "weight", "Weight",
                   "dysphagia", "Dysphagia", "Appetite", "appetite", "wt", "Wt",
@@ -8,6 +8,7 @@ highlightWords = ["LOW", "LOA", "bleed", "Bleed", "tube", "Tube", "Solid", "soli
                   "alcohol","family", "Family", "Hx", "FHx", "History", "history", "NGT", "Swallowing",
                   "swallowing"]
 
+# dictionary to hold words that require a different color
 highlightdifferent = ["LOW", "LOA", "bleed", "Bleed", "weight", "Weight",
                   "dysphagia", "Dysphagia", "Appetite", "appetite"]
 
