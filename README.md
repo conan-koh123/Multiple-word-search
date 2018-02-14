@@ -5,4 +5,4 @@ In this example, it is programmed to highlight important words for clinical hist
 
 Function of the program include highlighting relevant words, copy and paste function (Ctrl c + Ctrl V Function), Select all (Ctrl A function). Highlight of relevant words will appear when any keyboard keys (eg Down key) is pressed after pasting the relevant text into the programme.
 
-Adapted from: https://stackoverflow.com/questions/23120504/tkinter-text-widget-keyword-colouring (Stack Overflow)
+Adapted from: https://stackoverflow.com/a/23132843 by atlasologist (Stack Overflow)
