@@ -8,8 +8,8 @@ For "Multiple word search_Upper GI.py" python file, it was used by me to aid in 
 
 For "multiple word search for clinical history_v1.py" python file, it is improved with the addition of buttons allowing either clinical history or medical/family history to be highlighted. In addition, the program allows resetting of highlighter and removal of clinical history with buttons. For this program, a sample of clinical history is attached here to test the functionality of the program. 
 
-![alt text](Multiple-word-search/Screenshot of multiple word search for clinical history_v1.jpg)
+![alt tag](Multiple-word-search/Screenshot of multiple word search for clinical history_v1.jpg)
 
-Figure 2: Screenshot of the programe "multiple word search for clinical history_v1.py"
+
 
 Adapted from: https://stackoverflow.com/a/23132843 by atlasologist (Stack Overflow)
